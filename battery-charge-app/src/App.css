@@ -1,0 +1,35 @@
+body{
+  font-family: "sonnenText","Adjusted Sonnen Fallback",sans-serif;
+  src: url("./assets/fonts/SonnenText-VF.woff2") format('woff2');
+  background-color: #0040fa;
+}
+
+#sonnen-logo{
+  width: 11%;
+  margin: 10px;
+  margin-left: 35px;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+}
+
+h1{
+  display: inline-block;
+  width: 66%;
+  text-align: center;
+}
+
+main{
+  background-color: #0040fa;
+}
+
+.charge-state-container{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
