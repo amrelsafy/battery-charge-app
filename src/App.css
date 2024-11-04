@@ -33,3 +33,14 @@ main{
   flex-wrap: wrap;
 }
 
+
+@media (max-width: 635px){
+  h1{
+    font-size: 23px
+  }
+
+  header{
+    padding: 15px;
+  }
+}
+
